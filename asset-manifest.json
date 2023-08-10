@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sdkeepslive/static/css/main.55549cc0.css",
+    "main.js": "/sdkeepslive/static/js/main.6a8acbe7.js",
+    "index.html": "/sdkeepslive/index.html",
+    "main.55549cc0.css.map": "/sdkeepslive/static/css/main.55549cc0.css.map",
+    "main.6a8acbe7.js.map": "/sdkeepslive/static/js/main.6a8acbe7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55549cc0.css",
+    "static/js/main.6a8acbe7.js"
+  ]
+}
